@@ -1,3 +1,12 @@
+## About
+**Explore our Data Science Project:** Water Quality Prediction using Machine Learning! Our team has developed a predictive model that evaluates water quality using advanced machine learning techniques. Dive into our repository to discover the intricacies of data pre-processing, feature extraction, and model evaluation. Additionally, experience our interactive web application built with HTML, CSS, and React.js for the frontend, and Flask and MySQL for the backend. This intuitive application empowers users to predict water quality based on their input, offering insights and solutions at their fingertips. Join us in revolutionizing water quality assessment through innovative technology!
+
+## UI Design & Prototype
+
+Create user-friendly interfaces and prototypes seamlessly with ***Figma***, enhancing collaboration and streamlining the UI design process.
+
+- [Figma](https://www.figma.com/proto/WIHj2alXQFo1pxDEcpV7eq/WaterFlow?page-id=0%3A1&type=design&node-id=1-2&viewport=178%2C-38%2C0.17&t=JVTEXZT1LPqCutOU-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design) - Figma Prototype
+
 ## Description
 
 - This React application is built using [create-react-app](https://create-react-app.dev/).
